@@ -18,4 +18,4 @@ Esse projeto é um clone da interface de usuário (UI) do Twitter utilizando Rea
 
 Você pode conferir o projeto funcionando aqui:
 
-> https://...
+> https://ui-twitter-three.vercel.app/
